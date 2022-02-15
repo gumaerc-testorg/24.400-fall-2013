@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'This file contains information regarding questions 5. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/24-400-proseminar-in-philosophy-i-fall-2013/ce6db31e13e4cbce0ba94e22435ef51a_MIT24_400F13_Questions5.pdf
+file: /media/courses/24-400-proseminar-in-philosophy-i-fall-2013/ce6db31e13e4cbce0ba94e22435ef51a_MIT24_400F13_Questions5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: '24.400F13 Proseminar In Philsophy I: Reading Questions 5'
 uid: ce6db31e-13e4-cbce-0ba9-4e22435ef51a
