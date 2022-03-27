@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: b95fce95-24f3-f444-b5b4-84026108a286
 resourcetype: Document
 title: '24.400F13 Proseminar In Philsophy I: Reading Questions 1'
 uid: 3e9e6bde-1d81-c801-b491-26368157452e

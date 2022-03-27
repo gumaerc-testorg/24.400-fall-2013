@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: b95fce95-24f3-f444-b5b4-84026108a286
 resourcetype: Document
 title: '24.400F13 Proseminar in Philosophy I: Handout 2 Schemas'
 uid: 5b18bbc2-990d-ed58-9745-e2ce7dfc4313

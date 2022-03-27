@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: b95fce95-24f3-f444-b5b4-84026108a286
 resourcetype: Document
 title: '24.400F13 Proseminar in Philosophy I: Handout 3 On Denoting'
 uid: 3de15419-9efc-16ca-a6cf-32680835b5e3

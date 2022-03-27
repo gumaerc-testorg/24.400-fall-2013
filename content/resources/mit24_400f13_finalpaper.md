@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 40ed4c8c-6a49-d11b-c16b-2a3d3a34ea4c
 resourcetype: Document
 title: '24.400F13 Proseminar in Philosophy I: Final Paper Topics'
 uid: eb4373ae-0336-214e-b5a5-0f8ef9ad25cb
