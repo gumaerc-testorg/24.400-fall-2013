@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, prerequisites,
+  assignments, course format, and required texts.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -21,7 +23,7 @@ Assignments and Course Format
 
 Each session will consist of a discussion of previously assigned questions on the reading. The discussion will start off with a presentation by one or sometimes two of the seminar participants. Every presentation should be accompanied by a handout; at least one presentation should be in PowerPoint or equivalent. A 3 page paper is due in about three weeks, a 6 page paper is due mid-way through the term, and a 15 page paper is due at the end. Occasional handouts will be distributed as we go along.
 
-For further detail, please see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For further detail, please see the {{% resource_link 40ed4c8c-6a49-d11b-c16b-2a3d3a34ea4c "Assignments" %}} section.
 
 Required Texts
 --------------
@@ -44,4 +46,4 @@ Ryle, Gilbert. _The Concept of Mind_. University Of Chicago Press, 2000. ISBN: 9
 
 Austin, J. L. _Sense and Sensibilia_. 2nd ed. Edited by G. J. Warnock. Oxford University Press, 1962. ISBN: 9780195003079.
 
-For further detail, please see the [Readings]({{< baseurl >}}/pages/readings) section.
+For further detail, please see the {{% resource_link b95fce95-24f3-f444-b5b4-84026108a286 "Readings" %}} section.

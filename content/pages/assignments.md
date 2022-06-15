@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides instructions for the course writing assignments
+  along with associated readings.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -12,9 +14,9 @@ Paper 1 – Caesar (3 Pages)
 
 _Pick **One** of the following and explain its main claim(s), as far as this is possible in 3 pages._
 
-Hale, Bob, and Crispin Wright. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["To Bury Caesar….." (PDF)](https://www.oxfordscholarship.com/view/10.1093/0198236395.001.0001/acprof-9780198236399-chapter-15?print=pdf) st.andrews.ac.uk.
+Hale, Bob, and Crispin Wright. ["To Bury Caesar….." (PDF)](https://www.oxfordscholarship.com/view/10.1093/0198236395.001.0001/acprof-9780198236399-chapter-15?print=pdf) st.andrews.ac.uk.
 
-Heck, Jr., Richard G. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Julius Caesar Objection." (PDF)](http://rgheck.frege.org/pdf/published/JuliusCaesarObjection.pdf) rgheck.frege.org.
+Heck, Jr., Richard G. ["The Julius Caesar Objection." (PDF)](http://rgheck.frege.org/pdf/published/JuliusCaesarObjection.pdf) rgheck.frege.org.
 
 Kemp, Gary. "[Caesar from Frege's Perspective](http://dx.doi.org/10.1111/j.1746-8361.2005.01026.x)." _Dialectica_ 59, no. 2 (2005): 179–99.
 
@@ -38,7 +40,7 @@ Proops, Ian. "[The Tractatus on Inference and Entailment](http://www.academia.ed
 Final Paper (15 Pages)
 ----------------------
 
-For details on possible topics for the final paper, please see [Final Paper Topics (PDF)]({{< baseurl >}}/resources/mit24_400f13_finalpaper).
+For details on possible topics for the final paper, please see {{% resource_link eb4373ae-0336-214e-b5a5-0f8ef9ad25cb "Final Paper Topics (PDF)" %}}.
 
 Listed below are the readings that accompany the possible topics for the final paper.
 

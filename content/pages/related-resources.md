@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides links to on-line resources for several of the authors
+  covered in the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
