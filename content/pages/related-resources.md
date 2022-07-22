@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides links to on-line resources for several of the authors
+  covered in the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 3e09c437-98cf-4610-62c5-043bad349075
 ---

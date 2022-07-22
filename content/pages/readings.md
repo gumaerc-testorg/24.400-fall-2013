@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section the list of required books for the course, the schedule
+  of readings by session, handouts, and reading questions.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: b95fce95-24f3-f444-b5b4-84026108a286
 ---
@@ -55,7 +60,7 @@ Introduction: ''Boston'' designates 'Boston'—quasi-quotation & such
 {{< tdopen >}}
 
 
-[Handout 1: "Boston" designates 'Boston' (PDF)]({{< baseurl >}}/resources/mit24_400f13_handout1)
+{{% resource_link d7095fe4-d304-5f8a-a2fa-94e5455906a9 "Handout 1: \"Boston\" designates 'Boston' (PDF)" %}}
 
 Quine, W. V. "Use versus Mention." Chapter 1, section 4 in _Mathematical Logic_. Harvard University Press, 1981. ISBN: 9780674554511.
 
@@ -65,7 +70,7 @@ Quine, W. V. "Use versus Mention." Chapter 1, section 4 in _Mathematical Logic_.
 
 Cartwright, Richard. _Philosophical Essays_. MIT Press, 1987. ISBN: 9780262031301.
 
-[Handout 2: "Schemas" (PDF)]({{< baseurl >}}/resources/mit24_400f13_handout2)
+{{% resource_link 5b18bbc2-990d-ed58-9745-e2ce7dfc4313 "Handout 2: \"Schemas\" (PDF)" %}}
 
 Quine, W. V. "The Variable." Chapter 27 in _The Ways of Paradox and Other Essays_. Revised edition. Harvard University Press, 1976. ISBN: 9780674948372. \[Preview with [Google Books](http://books.google.com/books?id=YReOv31gdVIC&pg=PA272#v=onepage)\]
 
@@ -87,7 +92,7 @@ Frege: _The Foundations of Arithmetic_ (1884)
 \[F\]
 {{< tdclose >}}
 {{< tdopen >}}
-[Reading questions 1 (PDF)]({{< baseurl >}}/resources/mit24_400f13_questions1)
+{{% resource_link 3e9e6bde-1d81-c801-b491-26368157452e "Reading questions 1 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +107,7 @@ Frege: _The Foundations of Arithmetic_ (1884)
 \[F\]
 {{< tdclose >}}
 {{< tdopen >}}
-[Reading questions 2 (PDF)]({{< baseurl >}}/resources/mit24_400f13_questions2)
+{{% resource_link 290b1719-c84c-eb23-17b4-9a5f63dee5e5 "Reading questions 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +132,7 @@ Frege: _The Thought: A Logical Enquiry_ (1918)
 \[FR\]
 {{< tdclose >}}
 {{< tdopen >}}
-[Reading questions 3 (PDF)]({{< baseurl >}}/resources/mit24_400f13_questions3)
+{{% resource_link 58b3421c-84b1-4257-7f3a-8a7ef53e4b07 "Reading questions 3 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,12 +156,12 @@ Meinong, Alexius. "The Theory of Objects." In _Realism and the Background of Phe
 
 Russell, Bertrand. "[On Denoting](http://www.jstor.org/stable/2248381)." _Mind_ 14, no. 56 (1905): 479–93.
 
-[Handout 3: "On Denoting" (PDF)]({{< baseurl >}}/resources/mit24_400f13_handout3)
+{{% resource_link 3de15419-9efc-16ca-a6cf-32680835b5e3 "Handout 3: \"On Denoting\" (PDF)" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Reading questions 4 (PDF)]({{< baseurl >}}/resources/mit24_400f13_questions4)
+{{% resource_link 2b3f82d0-b5cd-5069-43bc-24f9a2678f1a "Reading questions 4 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,7 +192,7 @@ Russell, Bertrand. "The Philosophy of Logical Atomism." In _Logic and Knowledge:
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Reading questions 5 (PDF)]({{< baseurl >}}/resources/mit24_400f13_questions5)
+{{% resource_link ce6db31e-13e4-cbce-0ba9-4e22435ef51a "Reading questions 5 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -218,7 +223,7 @@ Rayo, Augustin. _The Construction of Logical Space_. Oxford University Press, 20
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Reading questions 6 (PDF)]({{< baseurl >}}/resources/mit24_400f13_questions6)
+{{% resource_link 205dde3a-5332-f707-ce21-a217d1cdb014 "Reading questions 6 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -234,16 +239,16 @@ Wittgenstein: _Tractatus Logico-Philosophicus_ (1921)
 
 \[W\]
 
-Conant, James. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Wittgenstein's Later Criticism of the Tractatus." (PDF)](https://humstatic.uchicago.edu/philosophy/conant/Wittgenstein's%20Later%20Criticisms%20of%20the%20Tractatus%20Published%20Version.pdf)
+Conant, James. ["Wittgenstein's Later Criticism of the Tractatus." (PDF)](https://humstatic.uchicago.edu/philosophy/conant/Wittgenstein's%20Later%20Criticisms%20of%20the%20Tractatus%20Published%20Version.pdf)
 
-Diamond, Cora, and James Conant. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["On Reading the Tractatus Resolutely: Reply to Meredith Williams and Peter Sullivan." (PDF)](http://philosophy.uchicago.edu/faculty/files/conant/03ConantDiamond.pdf)
+Diamond, Cora, and James Conant. ["On Reading the Tractatus Resolutely: Reply to Meredith Williams and Peter Sullivan." (PDF)](http://philosophy.uchicago.edu/faculty/files/conant/03ConantDiamond.pdf)
 
 Diamond, Cora. "[Throwing Away the Ladder](http://www.jstor.org/stable/3750493?origin=JSTOR-pdf&)." _Philosophy_ 63, no. 243 (1988): 5–27.
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Reading questions 7 (PDF)]({{< baseurl >}}/resources/mit24_400f13_questions7)
+{{% resource_link 6d81758b-cf34-e3a5-05cf-3aba8d931d59 "Reading questions 7 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -264,7 +269,7 @@ Moore: _The Conception of Intrinsic Value_ (1922)
 \[M\]
 {{< tdclose >}}
 {{< tdopen >}}
-[Reading questions 8 (PDF)]({{< baseurl >}}/resources/mit24_400f13_questions8)
+{{% resource_link 00386cb4-62b5-0dab-f749-729e78bea4e9 "Reading questions 8 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -290,14 +295,14 @@ Moore, G. E. "The Refutation of Idealism." In _G. E. Moore: Selected Writings_. 
 
 ———. "A Defence of Common Sense." In _G. E. Moore: Selected Writings_. Edited by Thomas Baldwin. Routledge, 2013. ISBN: 9780415862295. \[Preview with [Google Books](http://books.google.com/books?id=bh5lJrGxQEYC&pg=PA106#v=onepage)\]
 
-Van Cleve, James. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Troubles For Radical Transparency." (PDF)](http://dornsife.usc.edu/assets/sites/69/docs/Transparency_draft_2.pdf) 2005.
+Van Cleve, James. ["Troubles For Radical Transparency." (PDF)](http://dornsife.usc.edu/assets/sites/69/docs/Transparency_draft_2.pdf) 2005.
 
 Moore, G. E. "Proof of an External World." In _G. E. Moore: Selected Writings_. Edited by Thomas Baldwin. Routledge, 2013. ISBN: 9780415862295.
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Reading questions 9 (PDF)]({{< baseurl >}}/resources/mit24_400f13_questions9)
+{{% resource_link c19357a4-38f6-fe37-44d7-38f148181c05 "Reading questions 9 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -324,7 +329,7 @@ Wittgenstein: _Philosophical Investigations_ (1953)
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Reading questions 10 (PDF)]({{< baseurl >}}/resources/mit24_400f13_questions10)
+{{% resource_link 8a868c76-6b71-5aff-bac5-6eafa587b7f2 "Reading questions 10 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -347,7 +352,7 @@ Kenny, Anthony. "Private Languages." Chapter 10 in _Wittgenstein_. Revised editi
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Reading questions 11 (PDF)]({{< baseurl >}}/resources/mit24_400f13_questions11)
+{{% resource_link 35e62922-7147-b27d-99b4-ba62bd665ee3 "Reading questions 11 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -388,7 +393,7 @@ Ayer, A. J. "Preface." In _The Foundations of Empirical Knowledge_. Palgrave Mac
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Reading questions 12 (PDF)]({{< baseurl >}}/resources/mit24_400f13_questions12)
+{{% resource_link 242043ef-a102-1637-d6a2-c5493127e911 "Reading questions 12 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
