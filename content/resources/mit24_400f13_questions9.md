@@ -5,6 +5,7 @@ file: /courses/24-400-proseminar-in-philosophy-i-fall-2013/c19357a438f6fe3744d73
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '24.400F13 Proseminar In Philsophy I: Reading Questions 9'
 uid: c19357a4-38f6-fe37-44d7-38f148181c05
 ---
 This file contains information regarding questions 9. 
-
