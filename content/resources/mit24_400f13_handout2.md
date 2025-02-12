@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This file contains information regarding handout 2.
-file: /courses/24-400-proseminar-in-philosophy-i-fall-2013/5b18bbc2990ded589745e2ce7dfc4313_MIT24_400F13_Handout2.pdf
+file: /ol-ocw-studio-app/courses/24-400-proseminar-in-philosophy-i-fall-2013/5b18bbc2990ded589745e2ce7dfc4313_MIT24_400F13_Handout2.pdf
+file_size: 168426
 file_type: application/pdf
 learning_resource_types:
 - Readings

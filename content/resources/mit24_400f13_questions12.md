@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'This file contains information regarding questions 12. '
-file: /courses/24-400-proseminar-in-philosophy-i-fall-2013/242043efa1021637d6a2c5493127e911_MIT24_400F13_Questions12.pdf
+file: /ol-ocw-studio-app/courses/24-400-proseminar-in-philosophy-i-fall-2013/242043efa1021637d6a2c5493127e911_MIT24_400F13_Questions12.pdf
+file_size: 99375
 file_type: application/pdf
 learning_resource_types:
 - Readings
