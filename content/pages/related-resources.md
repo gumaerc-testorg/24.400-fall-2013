@@ -13,44 +13,44 @@ On-line resources for the following authors are listed below:
 A. J. Ayer
 ----------
 
-[Alfred Jules Ayer](http://plato.stanford.edu/entries/ayer/), Stanford Encyclopedia of Philosophy, plato.stanford.edu.
+{{% resource_link "3a8e59a2-ec36-4f2a-b486-38259978173d" "Alfred Jules Ayer" %}}, Stanford Encyclopedia of Philosophy, plato.stanford.edu.
 
 Gottlob Frege
 -------------
 
-[Gottlob Frege](http://plato.stanford.edu/entries/frege/), Stanford Encyclopedia of Philosophy, plato.stanford.edu.
+{{% resource_link "bf4b04a7-2f7b-40ff-8865-1c0b1e1f206c" "Gottlob Frege" %}}, Stanford Encyclopedia of Philosophy, plato.stanford.edu.
 
-[Frege’s Theorem and Foundations for Arithmetic](http://plato.stanford.edu/entries/frege-theorem/), Stanford Encyclopedia of Philosophy, plato.stanford.edu.
+{{% resource_link "126c3d62-bebb-4657-99b8-13669d4cc743" "Frege’s Theorem and Foundations for Arithmetic" %}}, Stanford Encyclopedia of Philosophy, plato.stanford.edu.
 
 Alexius Meinong
 ---------------
 
-[Alexius Meinong](http://plato.stanford.edu/entries/meinong/), Stanford Encyclopedia of Philosophy, plato.stanford.edu.
+{{% resource_link "bd757b2e-4570-4aa9-8cd4-6c83357af0fc" "Alexius Meinong" %}}, Stanford Encyclopedia of Philosophy, plato.stanford.edu.
 
 George Edward Moore
 -------------------
 
-[George Edward Moore](http://plato.stanford.edu/entries/moore/), Stanford Encyclopedia of Philosophy, plato.stanford.edu.
+{{% resource_link "5c114cdd-d65a-48ac-8b30-a8f95e0369b5" "George Edward Moore" %}}, Stanford Encyclopedia of Philosophy, plato.stanford.edu.
 
-[George Edward Moore (1873–1958)](http://www.philosophypages.com/ph/moor.htm), philosophypages.com.
+{{% resource_link "51c4cd6f-0398-4ae5-9803-5a1093675941" "George Edward Moore (1873–1958)" %}}, philosophypages.com.
 
 Gilbert Ryle
 ------------
 
-[Gilbert Ryle](http://plato.stanford.edu/entries/ryle/), Stanford Encyclopedia of Philosophy, plato.stanford.edu.
+{{% resource_link "fb0ec079-31e9-426d-a950-85ad9aabcac9" "Gilbert Ryle" %}}, Stanford Encyclopedia of Philosophy, plato.stanford.edu.
 
 Bertrand Russell
 ----------------
 
-[Bertrand Russell](http://plato.stanford.edu/entries/russell/), Stanford Encyclopedia of Philosophy, plato.stanford.edu.
+{{% resource_link "d3a44df9-4d54-4a0d-84a5-a68593c540c2" "Bertrand Russell" %}}, Stanford Encyclopedia of Philosophy, plato.stanford.edu.
 
-[Writings by Russell: A list of electronic texts of Russell’s books and essays](http://www.users.drew.edu/~jlenz/brtexts.html), users.drew.edu.
+{{% resource_link "fec63d03-acf8-46f0-80b4-ad537651c455" "Writings by Russell: A list of electronic texts of Russell’s books and essays" %}}, users.drew.edu.
 
 Ludwig Wittgenstein
 -------------------
 
-[Ludwig Wittgenstein](http://plato.stanford.edu/entries/wittgenstein/), Stanford Encyclopedia of Philosophy, plato.stanford.edu.
+{{% resource_link "25058f89-4ec4-4120-9206-a4f9a513303f" "Ludwig Wittgenstein" %}}, Stanford Encyclopedia of Philosophy, plato.stanford.edu.
 
-[Papers of Ludwig Wittgenstein (1889–1951), philosopher](http://janus.lib.cam.ac.uk/db/node.xsp?id=EAD%2FGBR%2F0016%2FWITTGENSTEIN), janus.lib.cam.ac.uk.
+{{% resource_link "e51cb9db-5b31-4c57-af43-fd8d346d9252" "Papers of Ludwig Wittgenstein (1889–1951), philosopher" %}}, janus.lib.cam.ac.uk.
 
-[Wittgenstein Links](http://www.helsinki.fi/~tuschano/lw/links/), helsinki.fi.
+{{% resource_link "8fcddd5a-c46a-411b-9399-9afdafc75552" "Wittgenstein Links" %}}, helsinki.fi.

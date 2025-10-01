@@ -28,7 +28,7 @@ For further detail, please see the {{% resource_link 40ed4c8c-6a49-d11b-c16b-2a3
 Required Texts
 --------------
 
-Frege, Gottlob. _The Foundations of Arithmetic: A Logico-Mathematical Enquiry into the Concept of Number_. 2nd revised ed. Translated by J. L. Austin. Northwestern University Press, 1980. ISBN: 9780810106055. \[Preview with [Google Books](http://books.google.com/books?id=z0KtOtNYMEQC&pg=PAfrontcover)\]
+Frege, Gottlob. _The Foundations of Arithmetic: A Logico-Mathematical Enquiry into the Concept of Number_. 2nd revised ed. Translated by J. L. Austin. Northwestern University Press, 1980. ISBN: 9780810106055. \[Preview with {{% resource_link "d86c2501-6a55-4767-96a2-1cea624ba276" "Google Books" %}}\]
 
 ———. _The Frege Reader_. Edited by Michael Beaney. Blackwell Publishing, 1997. ISBN: 9780631194453.
 
@@ -38,7 +38,7 @@ Wittgenstein, Ludwig. _Tractatus Logico-Philosphicus_. Translated by D. F. Pears
 
 ———. _Philosophical Investigations_. 4th ed. Translated by G. E. M. Anscombe, P. M. S. Hacker, and Joachim Schulte. Wiley-Blackwell, 2009. ISBN: 9781405159289.
 
-Moore, G. E. _Principia Ethica_. 2nd ed. Edited by Thomas Baldwin. Cambridge University Press, 1994. \[Preview with [Google Books](http://books.google.com/books?id=ZLpcgAQvr_gC&pg=PAfrontcover)\]
+Moore, G. E. _Principia Ethica_. 2nd ed. Edited by Thomas Baldwin. Cambridge University Press, 1994. \[Preview with {{% resource_link "e27d5e98-eba1-425e-9bbb-c52cd320668e" "Google Books" %}}\]
 
 Ayer, Alfred Jules. _Language, Truth and Logic_. 2nd ed. Dover Publications, 1952. ISBN: 9780486200101.
 

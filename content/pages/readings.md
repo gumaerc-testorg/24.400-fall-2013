@@ -11,7 +11,7 @@ uid: b95fce95-24f3-f444-b5b4-84026108a286
 
 The following books are required reading for the course.
 
-\[F\] = Frege, Gottlob. _The Foundations of Arithmetic: A Logico-Mathematical Enquiry into the Concept of Number_. 2nd revised ed. Translated by J. L. Austin. Northwestern University Press, 1980. ISBN: 9780810106055. \[Preview with [Google Books](http://books.google.com/books?id=z0KtOtNYMEQC&pg=PAfrontcover)\]
+\[F\] = Frege, Gottlob. _The Foundations of Arithmetic: A Logico-Mathematical Enquiry into the Concept of Number_. 2nd revised ed. Translated by J. L. Austin. Northwestern University Press, 1980. ISBN: 9780810106055. \[Preview with {{% resource_link "d86c2501-6a55-4767-96a2-1cea624ba276" "Google Books" %}}\]
 
 \[FR\] = ———. _The Frege Reader_. Edited by Michael Beaney. Blackwell Publishing, 1997. ISBN: 9780631194453.
 
@@ -21,7 +21,7 @@ The following books are required reading for the course.
 
 \[WP\] = ———. _Philosophical Investigations_. 4th ed. Translated by G. E. M. Anscombe, P. M. S. Hacker, and Joachim Schulte. Wiley-Blackwell, 2009. ISBN: 9781405159289.
 
-\[M\] = Moore, G. E. _Principia Ethica_. 2nd ed. Edited by Thomas Baldwin. Cambridge University Press, 1994. \[Preview with [Google Books](http://books.google.com/books?id=ZLpcgAQvr_gC&pg=PAfrontcover)\]
+\[M\] = Moore, G. E. _Principia Ethica_. 2nd ed. Edited by Thomas Baldwin. Cambridge University Press, 1994. \[Preview with {{% resource_link "e27d5e98-eba1-425e-9bbb-c52cd320668e" "Google Books" %}}\]
 
 \[A\] = Ayer, Alfred Jules. _Language, Truth and Logic_. 2nd ed. Dover Publications, 1952. ISBN: 9780486200101.
 
@@ -72,7 +72,7 @@ Cartwright, Richard. _Philosophical Essays_. MIT Press, 1987. ISBN: 978026203130
 
 {{% resource_link 5b18bbc2-990d-ed58-9745-e2ce7dfc4313 "Handout 2: \"Schemas\" (PDF)" %}}
 
-Quine, W. V. "The Variable." Chapter 27 in _The Ways of Paradox and Other Essays_. Revised edition. Harvard University Press, 1976. ISBN: 9780674948372. \[Preview with [Google Books](http://books.google.com/books?id=YReOv31gdVIC&pg=PA272#v=onepage)\]
+Quine, W. V. "The Variable." Chapter 27 in _The Ways of Paradox and Other Essays_. Revised edition. Harvard University Press, 1976. ISBN: 9780674948372. \[Preview with {{% resource_link "0997dc85-1a4e-405e-89b8-8d4aa8bd4475" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -154,7 +154,7 @@ Russell: _On Denoting_ (1905)
 
 Meinong, Alexius. "The Theory of Objects." In _Realism and the Background of Phenomenology_. Edited by Roderick M. Chisolm. Ridgeview Publishing Company, 1981. ISBN: 9780917930140.
 
-Russell, Bertrand. "[On Denoting](http://www.jstor.org/stable/2248381)." _Mind_ 14, no. 56 (1905): 479–93.
+Russell, Bertrand. "{{% resource_link "02333434-df5e-4f32-ad69-3f19232d0225" "On Denoting" %}}." _Mind_ 14, no. 56 (1905): 479–93.
 
 {{% resource_link 3de15419-9efc-16ca-a6cf-32680835b5e3 "Handout 3: \"On Denoting\" (PDF)" %}}
 
@@ -218,7 +218,7 @@ Wittgenstein: _Tractatus Logico-Philosophicus_ (1921)
 
 \[W\]
 
-Rayo, Augustin. _The Construction of Logical Space_. Oxford University Press, 2013. ISBN: 9780199662623. \[Preview with [Google Books](http://books.google.com/books?id=wXoQAAAAQBAJ&pg=PAfrontcover)\]
+Rayo, Augustin. _The Construction of Logical Space_. Oxford University Press, 2013. ISBN: 9780199662623. \[Preview with {{% resource_link "2620ecc1-e8be-4a77-bcba-360dd7278898" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -239,11 +239,11 @@ Wittgenstein: _Tractatus Logico-Philosophicus_ (1921)
 
 \[W\]
 
-Conant, James. ["Wittgenstein's Later Criticism of the Tractatus." (PDF)](https://humstatic.uchicago.edu/philosophy/conant/Wittgenstein's%20Later%20Criticisms%20of%20the%20Tractatus%20Published%20Version.pdf)
+Conant, James. {{% resource_link "1e4dd93a-72fb-44c1-b2c3-0af049453fd5" "\"Wittgenstein's Later Criticism of the Tractatus.\" (PDF)" %}}
 
-Diamond, Cora, and James Conant. ["On Reading the Tractatus Resolutely: Reply to Meredith Williams and Peter Sullivan." (PDF)](http://philosophy.uchicago.edu/faculty/files/conant/03ConantDiamond.pdf)
+Diamond, Cora, and James Conant. {{% resource_link "396f0682-ec03-4eef-b3d0-3e3dc8b6656a" "\"On Reading the Tractatus Resolutely: Reply to Meredith Williams and Peter Sullivan.\" (PDF)" %}}
 
-Diamond, Cora. "[Throwing Away the Ladder](http://www.jstor.org/stable/3750493?origin=JSTOR-pdf&)." _Philosophy_ 63, no. 243 (1988): 5–27.
+Diamond, Cora. "{{% resource_link "2c51bb1d-d98b-4926-a3ae-cb0846033a73" "Throwing Away the Ladder" %}}." _Philosophy_ 63, no. 243 (1988): 5–27.
 
 
 {{< tdclose >}}
@@ -291,11 +291,11 @@ Moore: _Proof of an External World_ (1939)
 {{< tdopen >}}
 
 
-Moore, G. E. "The Refutation of Idealism." In _G. E. Moore: Selected Writings_. Edited by Thomas Baldwin. Routledge, 2013. ISBN: 9780415862295. \[Preview with [Google Books](http://books.google.com/books?id=bh5lJrGxQEYC&pg=PA23#v=onepage)\]
+Moore, G. E. "The Refutation of Idealism." In _G. E. Moore: Selected Writings_. Edited by Thomas Baldwin. Routledge, 2013. ISBN: 9780415862295. \[Preview with {{% resource_link "78be419a-7419-45c9-b9fc-ed4531a5068b" "Google Books" %}}\]
 
-———. "A Defence of Common Sense." In _G. E. Moore: Selected Writings_. Edited by Thomas Baldwin. Routledge, 2013. ISBN: 9780415862295. \[Preview with [Google Books](http://books.google.com/books?id=bh5lJrGxQEYC&pg=PA106#v=onepage)\]
+———. "A Defence of Common Sense." In _G. E. Moore: Selected Writings_. Edited by Thomas Baldwin. Routledge, 2013. ISBN: 9780415862295. \[Preview with {{% resource_link "632f9394-c333-41bf-aef8-3bd2977cd047" "Google Books" %}}\]
 
-Van Cleve, James. ["Troubles For Radical Transparency." (PDF)](http://dornsife.usc.edu/assets/sites/69/docs/Transparency_draft_2.pdf) 2005.
+Van Cleve, James. {{% resource_link "3cb07fad-61ea-4b28-8053-9e77715c02db" "\"Troubles For Radical Transparency.\" (PDF)" %}} 2005.
 
 Moore, G. E. "Proof of an External World." In _G. E. Moore: Selected Writings_. Edited by Thomas Baldwin. Routledge, 2013. ISBN: 9780415862295.
 
@@ -347,7 +347,7 @@ Wittgenstein: _Philosophical Investigations_ (1953)
 
 Hacker, P. M. S. "Private Linguists and Public Speakers." Chapter 9 in _Insight and Illusion: Wittgenstein on Philosophy and the Metaphysics of Experience_. Oxford University Press, 1975. ISBN: 9780195198232.
 
-Kenny, Anthony. "Private Languages." Chapter 10 in _Wittgenstein_. Revised edition. Wiley-Blackwell, 2005. ISBN: 9781405136556. \[Preview with [Google Books](http://books.google.com/books?id=mDy2UvPJ9xoC&pg=PA141#v=onepage)\]
+Kenny, Anthony. "Private Languages." Chapter 10 in _Wittgenstein_. Revised edition. Wiley-Blackwell, 2005. ISBN: 9781405136556. \[Preview with {{% resource_link "7ac6adcb-9481-46eb-8bd2-ba0cb27bbe94" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -378,11 +378,11 @@ Ayer: _The Foundations of Empirical Knowledge_ (1940)
 
 \[WP\]
 
-Horwich, Paul. "A Critique of Theoretical Philosophy." Chapter 2 in [_Wittgenstein's Metaphilosophy_](http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199588879.001.0001/acprof-9780199588879). Oxford University Press, 2013. ISBN: 9780199661121. \[Preview with [Google Books](http://books.google.com/books?id=dA37Dr1Op4AC&pg=PA19#v=onepage)\]
+Horwich, Paul. "A Critique of Theoretical Philosophy." Chapter 2 in {{% resource_link "3798cbdd-5a86-45ab-9a96-af54ba851b40" "_Wittgenstein's Metaphilosophy_" %}}. Oxford University Press, 2013. ISBN: 9780199661121. \[Preview with {{% resource_link "86c1fbf2-0495-4c3f-89e8-a8cc95381dfc" "Google Books" %}}\]
 
 \[R\]
 
-Stanley, Jason, and Timothy Williamson. "[Knowing How](http://philpapers.org/rec/STAKH)." _Journal of Philosophy_ 98, no. 8 (2001): 411–44.
+Stanley, Jason, and Timothy Williamson. "{{% resource_link "59047f7c-46ea-42b2-803e-144b045d9eca" "Knowing How" %}}." _Journal of Philosophy_ 98, no. 8 (2001): 411–44.
 
 \[AJ\]
 
